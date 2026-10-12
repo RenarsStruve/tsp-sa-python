@@ -1,0 +1,67 @@
+{
+ "rand10": {
+  "n": 10,
+  "kind": "nejau\u0161s, optimums ar Held-Karp DP",
+  "optimum": 267.6449157380663
+ },
+ "rand13": {
+  "n": 13,
+  "kind": "nejau\u0161s, optimums ar Held-Karp DP",
+  "optimum": 326.39969741601607
+ },
+ "rand15": {
+  "n": 15,
+  "kind": "nejau\u0161s, optimums ar Held-Karp DP",
+  "optimum": 298.8658568778593
+ },
+ "grid6x6": {
+  "n": 36,
+  "kind": "re\u017e\u0123is, zin\u0101ms optimums = n",
+  "optimum": 36.0
+ },
+ "grid10x10": {
+  "n": 100,
+  "kind": "re\u017e\u0123is, zin\u0101ms optimums = n",
+  "optimum": 100.0
+ },
+ "grid14x14": {
+  "n": 196,
+  "kind": "re\u017e\u0123is, zin\u0101ms optimums = n",
+  "optimum": 196.0
+ },
+ "circle50": {
+  "n": 50,
+  "kind": "ri\u0146\u0137a l\u012bnija, optimums = daudzst\u016bra perimetrs",
+  "optimum": 627.9051952931337
+ },
+ "circle200": {
+  "n": 200,
+  "kind": "ri\u0146\u0137a l\u012bnija, optimums = daudzst\u016bra perimetrs",
+  "optimum": 628.292692472827
+ },
+ "circle500": {
+  "n": 500,
+  "kind": "ri\u0146\u0137a l\u012bnija, optimums = daudzst\u016bra perimetrs",
+  "optimum": 628.3143965558951
+ },
+ "rand50": {
+  "n": 50,
+  "kind": "nejau\u0161s, bez zin\u0101ma optimuma",
+  "optimum": null
+ },
+ "rand100": {
+  "n": 100,
+  "kind": "nejau\u0161s, bez zin\u0101ma optimuma",
+  "optimum": null
+ },
+ "rand200": {
+  "n": 200,
+  "kind": "nejau\u0161s, bez zin\u0101ma optimuma",
+  "optimum": null
+ },
+ "rand500": {
+  "n": 500,
+  "kind": "nejau\u0161s, bez zin\u0101ma optimuma",
+  "optimum": null
+ }
+}
